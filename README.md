@@ -1,4 +1,6 @@
-# This is a simple document on how I made my proton pack cable with connectors. Its pretty straight forward
+# Ghostbusters Proton Pack Detachable cable
+
+This is a simple document on how I made my proton pack cable with connectors. Its pretty straight forward
 
 1. My pack is not a Q-Pack, but my Wand is from the MK2.1 STL's
   a. I highly recommend printing the Q-Pack
